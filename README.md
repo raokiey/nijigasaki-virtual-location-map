@@ -11,8 +11,8 @@
 
 ## Webアプリケーション
 以下のリンクより開くことができます。  
-- [Webアプリ（PCでの表示を推奨）](./index.html "虹ヶ咲バーチャル聖地巡礼マップ")
-- [Webアプリ（軽量版）](./lite_version.html "虹ヶ咲バーチャル聖地巡礼マップ 軽量版")
+- [Webアプリ（PCでの表示を推奨）](https://raokiey.github.io/nijigasaki-virtual-location-map/index.html "虹ヶ咲バーチャル聖地巡礼マップ")
+- [Webアプリ（軽量版）](https://raokiey.github.io/nijigasaki-virtual-location-map/lite_version.html "虹ヶ咲バーチャル聖地巡礼マップ 軽量版")
 
 ## 使用したデータ
 本Webアプリケーションにおいて、以下のデータを使用しております。  
