@@ -65,6 +65,9 @@
         url : 'https://plateau.geospatial.jp/main/data/3d-tiles/brid/13100_tokyo/tileset.json'
       }));
 
+      // 聖地のKMZデータ
+      viewer.dataSources.add(Cesium.KmlDataSource.load("./data/anigasaki_s1_spot.kmz"));
+
       // カメラの初期位置の指定
       viewer.camera.setView({
         destination : Cesium.Cartesian3.fromDegrees(139.7623,35.6024, 1000.0),
